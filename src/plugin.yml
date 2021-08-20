@@ -1,0 +1,7 @@
+name: LostingMina
+author: [Losting]
+version: 1.0
+main: losting.mina.Main
+commands:
+  picareta:
+  pegarpicareta:
